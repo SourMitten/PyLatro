@@ -1,0 +1,10 @@
+{
+  "jokers": [
+    {
+      "id": "joker_1",
+      "name": "Joker",
+      "description": "Common joker with no effect",
+      "rarity": "common"
+    }
+  ]
+}

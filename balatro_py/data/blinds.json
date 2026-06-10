@@ -1,0 +1,16 @@
+{
+  "blinds": [
+    {
+      "id": "small_blind",
+      "name": "Small Blind",
+      "description": "Standard blind",
+      "score_goal": 300
+    },
+    {
+      "id": "big_blind",
+      "name": "Big Blind",
+      "description": "Harder blind",
+      "score_goal": 600
+    }
+  ]
+}

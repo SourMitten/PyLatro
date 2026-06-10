@@ -1,0 +1,9 @@
+{
+  "tarot": [
+    {
+      "id": "tarot_fool",
+      "name": "The Fool",
+      "description": "Tarot card with special effect"
+    }
+  ]
+}

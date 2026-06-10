@@ -1,0 +1,9 @@
+{
+  "planets": [
+    {
+      "id": "planet_mercury",
+      "name": "Mercury",
+      "description": "Planet card for enhancing cards"
+    }
+  ]
+}

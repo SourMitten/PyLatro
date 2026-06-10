@@ -1,0 +1,17 @@
+{
+  "game": {
+    "title": "PyLatro",
+    "version": "0.1.0",
+    "screen_width": 1024,
+    "screen_height": 768,
+    "refresh_rate": 60
+  },
+  "gameplay": {
+    "starting_money": 4,
+    "starting_ante": 1,
+    "max_ante": 8,
+    "starting_hand_size": 5,
+    "hands_per_round": 5,
+    "discards_per_round": 3
+  }
+}

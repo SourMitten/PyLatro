@@ -1,0 +1,9 @@
+{
+  "vouchers": [
+    {
+      "id": "voucher_grabber",
+      "name": "Tarot Grabber",
+      "description": "Grants a Tarot card in each shop"
+    }
+  ]
+}
